@@ -1,8 +1,7 @@
 TITLE Portfolio Assignment 6     (Program6_934056187.asm)
 
 ; Author: Sileide De Freitas Theriac
-; Last Modified: 03/12/2020
-; OSU email address: defreits@oregonstate.edu
+; Last Modified: 03/12/2020; 
 ; Course number/section: CS 271/400
 ; Project Number: Proj 6                Due Date: 03/15/2020
 ; Description: Program prompts user for 10 signed integers, reads them as strings, then converts them into numeric form.
